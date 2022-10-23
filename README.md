@@ -1,3 +1,3 @@
 # service-log
-Demo project only get oobject and print out to console it 
-Thereby simulates second microservice 
+Demo project only get oobject and print out to console it, 
+thereby simulates second microservice 
